@@ -39,6 +39,6 @@ Distributed operating system simulator built across four communicating modules �
 
 ---
 
-## 📫 Contact
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/juan-manuel-rama) · [juanmrama2005@gmail.com](mailto:your.juanmrama2005@gmail.com)
