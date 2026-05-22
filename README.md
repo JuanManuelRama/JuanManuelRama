@@ -8,7 +8,7 @@ Currently seeking IT / software engineering internships.
 
 ## Tech Stack
 
-**Languages:** Java/Kotlin · C/C++ · JavaScript / TypeScript · SQL
+**Languages:** Java/Kotlin · C · JavaScript / TypeScript · SQL
 
 **Backend:** REST APIs · ExpressJs · Javalin · Ktor
 
